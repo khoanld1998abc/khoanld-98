@@ -25,3 +25,5 @@
 ![Vue](https://img.shields.io/badge/-Vue-yellow?&logo=Vue.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-yellow?&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?&logo=mongoDB&logoColor=47A248)
+![express](https://img.shields.io/badge/-express-yellow?&logo=express&logoColor=47A248)
+![typescript](https://img.shields.io/badge/-typescript-yellow?&logo=typescript&logoColor=47A248)
